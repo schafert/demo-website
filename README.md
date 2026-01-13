@@ -2,12 +2,12 @@
 
 Repo for students to practice creating a pull request after forking a repo
 
-Scenario:  Hooray! We're building our course website (https://haseungyeon3.github.io/demo-website/)! Please remember not to share any confidential information on the site.
+Scenario:  Hooray! We're building our course website (https://schafert.github.io/demo-website/)! Please remember not to share any confidential information on the site.
 As part of the project, I'll be collecting your favorite animals and displaying the distribution on the website. To participate, simply add your favorite animal to the index.html file and submit a pull request to me.
 
 1. First, make a fork of the GitHub repo.
 
-    a. Visit URL: [https://github.com/haseungyeon3/demo-website/](https://github.com/haseungyeon3/demo-website/)
+    a. Visit URL: [https://github.com/schafert/demo-website/](https://github.com/haseungyeon3/demo-website/)
 
     b. In the top right corner of the screen, click on the down arrow next to "Fork" and select "Create a new fork." This creates an independent copy of the GitHub repo, which is then saved as a repository under your GitHub account.
 
@@ -66,5 +66,6 @@ As part of the project, I'll be collecting your favorite animals and displaying 
     l. If there are no conflicts and your changes are approved, the repository owner or collaborators can merge your pull request by clicking the "Merge Pull Request" button.
 
     m. Congratulations, your changes are now part of the original repository!
+
 
 
